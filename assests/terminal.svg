@@ -16,29 +16,75 @@
         rx="16"
         fill="#161b22"/>
 
-    <!-- Fix square bottom corners -->
+    <!-- Fill bottom of title bar -->
     <rect
+        x="0"
         y="25"
         width="1000"
         height="25"
         fill="#161b22"/>
 
-    <!-- macOS buttons -->
+    <!-- macOS Window Buttons -->
     <circle cx="28" cy="25" r="7" fill="#ff5f56"/>
     <circle cx="52" cy="25" r="7" fill="#ffbd2e"/>
     <circle cx="76" cy="25" r="7" fill="#27c93f"/>
 
-    <!-- Window title -->
+    <!-- Window Title -->
     <text
         x="500"
         y="31"
         fill="#c9d1d9"
-        font-size="17"
         font-family="SFMono-Regular, Menlo, Monaco, Consolas, monospace"
+        font-size="17"
         text-anchor="middle">
-
         Terminal
+    </text>
 
+    <!-- Last Login -->
+    <text
+        x="30"
+        y="85"
+        fill="#8b949e"
+        font-family="SFMono-Regular, Menlo, Monaco, Consolas, monospace"
+        font-size="18">
+        Last login: Fri Aug 07 12:34:56 on ttys000
+    </text>
+
+    <!-- Prompt -->
+    <text
+        x="30"
+        y="125"
+        fill="#58a6ff"
+        font-family="SFMono-Regular, Menlo, Monaco, Consolas, monospace"
+        font-size="22">
+        dhruv@github
+    </text>
+
+    <text
+        x="195"
+        y="125"
+        fill="#c9d1d9"
+        font-family="SFMono-Regular, Menlo, Monaco, Consolas, monospace"
+        font-size="22">
+        ~
+    </text>
+
+    <text
+        x="220"
+        y="125"
+        fill="#c9d1d9"
+        font-family="SFMono-Regular, Menlo, Monaco, Consolas, monospace"
+        font-size="22">
+        %
+    </text>
+
+    <text
+        x="250"
+        y="125"
+        fill="#79c0ff"
+        font-family="SFMono-Regular, Menlo, Monaco, Consolas, monospace"
+        font-size="22">
+        neofetch
     </text>
 
 </svg>
