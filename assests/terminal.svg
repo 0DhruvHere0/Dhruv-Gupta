@@ -1,27 +1,14 @@
-<svg
-    xmlns="http://www.w3.org/2000/svg"
-    viewBox="0 0 1000 650">
+<!-- Title -->
+<text
+    x="500"
+    y="31"
+    fill="#c9d1d9"
+    font-family="SFMono-Regular, Menlo, Monaco, Consolas, monospace"
+    font-size="17"
+    text-anchor="middle">Terminal</text>
 
-    <!-- Background -->
-    <rect width="1000" height="650" rx="16" fill="#0d1117"/>
-
-    <!-- Title Bar -->
-    <rect width="1000" height="50" rx="16" fill="#161b22"/>
-    <rect x="0" y="25" width="1000" height="25" fill="#161b22"/>
-
-    <!-- macOS Buttons -->
-    <circle cx="28" cy="25" r="7" fill="#ff5f56"/>
-    <circle cx="52" cy="25" r="7" fill="#ffbd2e"/>
-    <circle cx="76" cy="25" r="7" fill="#27c93f"/>
-
-    <!-- Title -->
-    <text
-        x="500"
-        y="31"
-        fill="#c9d1d9"
-        font-family="SFMono-Regular, Menlo, Monaco, Consolas, monospace"
-        font-size="17"
-        text-anchor="middle">Terminal</text>
+<!-- ================= SCREEN 1 ================= -->
+<g id="screen1">
 
     <!-- Last Login -->
     <text
@@ -114,5 +101,7 @@
         </tspan>
 
     </text>
+
+</g>
 
 </svg>
