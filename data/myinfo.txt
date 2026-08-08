@@ -1,0 +1,14 @@
+Hi, I'm Dhruv Gupta.
+
+I'm a Computer Science & Engineering student at VIT Bhopal
+who enjoys building software and solving problems.
+
+I like working close to the system, especially with C++,
+backend development, and databases.
+
+I enjoy turning ideas into real projects, learning how
+things work under the hood, and continuously improving
+my engineering skills.
+
+Currently exploring:
+software engineering, backend systems, and AI/ML.

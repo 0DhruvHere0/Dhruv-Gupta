@@ -1,0 +1,14 @@
+Languages
+    C++
+    Python
+    SQL
+    Bash
+Backend
+    FastAPI
+Databases
+    PostgreSQL
+    MySQL
+DevOps
+    Git
+    GitHub Actions
+    AWS

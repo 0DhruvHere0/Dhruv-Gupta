@@ -1,3 +1,9 @@
+# Dhruv Gupta
+
 <p align="center">
-    <img src="./assests/terminal.svg" width="900">
+  <img
+    src="./assets/terminal.apng"
+    alt="Dhruv Gupta terminal"
+    width="900"
+  />
 </p>
