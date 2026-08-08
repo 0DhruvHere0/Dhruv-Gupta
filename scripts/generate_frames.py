@@ -65,7 +65,7 @@ def draw_prompt(
     cursor=True,
 ):
     current_x = 30
-    username = "dhruv@github"
+    username = "0DhruvHere0@github"
     draw.text(
         (current_x, y),
         username,
