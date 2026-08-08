@@ -1,5 +1,3 @@
-# Dhruv Gupta
-
 <p align="center">
   <img
     src="./assets/terminal.apng"

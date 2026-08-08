@@ -10,5 +10,5 @@ Databases
     MySQL
 DevOps
     Git
-    GitHub Actions
+    Google Cloud Console
     AWS

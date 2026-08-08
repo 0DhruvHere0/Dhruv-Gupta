@@ -1,6 +1,6 @@
-name=Dhruv Gupta
-role=Computer Science & Engineering Student
-university=VIT Bhopal University
-languages=C++, Python, SQL, Bash, ARM Assembly
-frameworks=FastAPI
-focus=Software Engineering
+Name=Dhruv Gupta
+Role=Computer Science & Engineering Student
+University=VIT Bhopal University
+Languages=C++, Python, SQL, Bash, ARM Assembly
+Frameworks=FastAPI
+Focus=Software Engineering
